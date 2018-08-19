@@ -18,6 +18,11 @@ Server Side:
 			good
 
 
+
+
+		
+	
+	
 Client Side:
 	1.Compile the program-> gcc -o client client.c
 	2.Run the program by giving IP address and port number in command line -> ./client 128.226.180.166 4020
@@ -30,7 +35,8 @@ Client Side:
 	 	 Message being sent
 		-Message from server: hello
 
-	
+		-Write a message:how r u
+	  	Message being sent
+		-Message from server: good
 
-		
-
+		-Write a message:
