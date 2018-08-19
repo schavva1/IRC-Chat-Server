@@ -30,11 +30,7 @@ Client Side:
 	 	 Message being sent
 		-Message from server: hello
 
-		-Write a message:how r u
-	  	Message being sent
-		-Message from server: good
-
-		-Write a message:
+	
 
 		
 
